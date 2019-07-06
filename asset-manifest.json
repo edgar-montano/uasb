@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/usab/static/css/main.34de6062.chunk.css",
+    "main.js": "/usab/static/js/main.a3950203.chunk.js",
+    "main.js.map": "/usab/static/js/main.a3950203.chunk.js.map",
+    "runtime~main.js": "/usab/static/js/runtime~main.004c5c0d.js",
+    "runtime~main.js.map": "/usab/static/js/runtime~main.004c5c0d.js.map",
+    "static/css/2.0624914a.chunk.css": "/usab/static/css/2.0624914a.chunk.css",
+    "static/js/2.8e81696d.chunk.js": "/usab/static/js/2.8e81696d.chunk.js",
+    "static/js/2.8e81696d.chunk.js.map": "/usab/static/js/2.8e81696d.chunk.js.map",
+    "index.html": "/usab/index.html",
+    "precache-manifest.8a0deec5e9e2b96c0968a17346f02d89.js": "/usab/precache-manifest.8a0deec5e9e2b96c0968a17346f02d89.js",
+    "service-worker.js": "/usab/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/usab/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/usab/static/css/main.34de6062.chunk.css.map"
+  }
+}
